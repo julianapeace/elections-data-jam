@@ -1,4 +1,4 @@
-# elections-data-jam: based on the houston data visualizatino meetup 8.19.2016
+# elections-data-jam: based on the houston data visualization meetup 8.19.2016
 
 
 
