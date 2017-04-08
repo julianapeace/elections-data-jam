@@ -1,3 +1,5 @@
+
+quick edits blah blah 
 # elections-data-jam: based on the houston data visualization meetup 8.19.2016
 
 
